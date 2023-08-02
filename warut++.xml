@@ -29,9 +29,9 @@
             <Keywords name="Keywords3">*** ___</Keywords>
             <Keywords name="Keywords4">** __</Keywords>
             <Keywords name="Keywords5">* _</Keywords>
-            <Keywords name="Keywords6">RESEARCH DOING PENDING TODO QUESTION APPROVED</Keywords>
-            <Keywords name="Keywords7">NO WARNING DISCARDED CANCELLED REJECTED FAILED DISAPPROVED X! !</Keywords>
-            <Keywords name="Keywords8">DONE! DONE SOLVED SOLVED! FIXED FIXED! YES REPLIED OK OK!</Keywords>
+            <Keywords name="Keywords6">RESEARCH DOING PENDING TODO QUESTION APPROVED &#x0E01;&#x0E33;&#x0E25;&#x0E31;&#x0E07;&#x0E17;&#x0E33; &#x0E01;&#x0E33;&#x0E25;&#x0E31;&#x0E07;&#x0E14;&#x0E33;&#x0E40;&#x0E19;&#x0E34;&#x0E19;&#x0E01;&#x0E32;&#x0E23;</Keywords>
+            <Keywords name="Keywords7">NO WARNING DISCARDED CANCELLED REJECTED FAILED DISAPPROVED X! ! &#x0E15;&#x0E49;&#x0E2D;&#x0E07;&#x0E23;&#x0E35;&#x0E1A;&#x0E17;&#x0E33; &#x0E15;&#x0E49;&#x0E2D;&#x0E07;&#x0E23;&#x0E35;&#x0E1A;&#x0E14;&#x0E33;&#x0E40;&#x0E19;&#x0E34;&#x0E19;&#x0E01;&#x0E32;&#x0E23; &#x0E17;&#x0E33;&#x0E14;&#x0E48;&#x0E27;&#x0E19;</Keywords>
+            <Keywords name="Keywords8">DONE! DONE SOLVED SOLVED! FIXED FIXED! YES REPLIED OK OK! &#x0E17;&#x0E33;&#x0E41;&#x0E25;&#x0E49;&#x0E27; &#x0E40;&#x0E2A;&#x0E23;&#x0E47;&#x0E08;&#x0E41;&#x0E25;&#x0E49;&#x0E27; &#x0E2A;&#x0E33;&#x0E40;&#x0E23;&#x0E47;&#x0E08;&#x0E41;&#x0E25;&#x0E49;&#x0E27;</Keywords>
             <Keywords name="Delimiters">00![ 00[ 01\ 02] 02] 03``` 03` 03~~~ 04\ 05``` 05((EOL `)) 05~~~ 06*** 07\ 08((EOL ***)) 09** 10\ 11((EOL **)) 12* 13\ 14((EOL *)) 15** 16\ 17((EOL **)) 18* 19\ 20((EOL *)) 21 22 23</Keywords>
         </KeywordLists>
         <Styles>
